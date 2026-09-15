@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="3ad3b403-feb5-4f75-a9c0-011b0294faeb" />
+    <option name="openSessionIds">
+      <list>
+        <option value="495646f4-8857-4ad8-acf9-0c34d0bc9373" />
+        <option value="68bfec8d-31f1-4ad3-9087-7311581c3e1e" />
+        <option value="3ad3b403-feb5-4f75-a9c0-011b0294faeb" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="3ad3b403-feb5-4f75-a9c0-011b0294faeb" value="/sessions/new" />
+        <entry key="495646f4-8857-4ad8-acf9-0c34d0bc9373" value="/sessions/21b5c298-0a7e-4e61-97e3-db7da6859746" />
+        <entry key="68bfec8d-31f1-4ad3-9087-7311581c3e1e" value="/sessions/afc29db7-37fd-4ecc-b0cb-47cab0561f42" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="3ad3b403-feb5-4f75-a9c0-011b0294faeb" value="Claude Code" />
+        <entry key="495646f4-8857-4ad8-acf9-0c34d0bc9373" value="remove all comments" />
+        <entry key="68bfec8d-31f1-4ad3-9087-7311581c3e1e" value="$USER_HOME$/Downloads/2IP90_Week_2.pdf Write an" />
+      </map>
+    </option>
+  </component>
+</project>
